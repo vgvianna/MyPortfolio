@@ -38,7 +38,7 @@
         "Deploy no Heroku: Site acessível online para fácil compartilhamento com recrutadores."
       ],
       "image": "/imagens/projeto2.png",
-      "url": "https://victorgabriel-portifolio-app.herokuapp.com/ ",
+      "url": "https://victorgabriel-portifolio.herokuapp.com/ ",
       "github": "https://github.com/vgvianna/MyPortfolio",
       "technologies": ["React", "TailwindCSS", "Heroku"]
     }
