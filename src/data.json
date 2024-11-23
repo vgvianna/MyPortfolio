@@ -1,0 +1,46 @@
+{
+  "title": "Meu Portfólio",
+  "description": "Descrição do meu portfólio.",
+  "projects": [
+    {
+      "name": "API de Gerenciamento de Alunos",
+      "shortDescription": "Uma API RESTful para gerenciar alunos e suas informações.",
+      "longDescription": "Essa API foi desenvolvida como parte de um desafio prático da Generation Brasil utilizando Python e Flask. Ela oferece funcionalidades completas para gerenciar informações de alunos em um ambiente acadêmico, incluindo operações de criação, leitura, atualização e exclusão (CRUD). A API foi documentada com Swagger para facilitar a compreensão e interação por outros desenvolvedores.",
+      "features": [
+        "Listar todos os alunos registrados na base de dados.",
+        "Criar novos registros de alunos com informações detalhadas, como nome, idade, notas e dados de sala.",
+        "Consultar as informações de um aluno específico através de seu ID.",
+        "Atualizar os dados de um aluno existente.",
+        "Excluir registros de alunos."
+      ],
+      "technicalDifferentials": [
+        "Documentação com Swagger: Permite explorar e testar a API diretamente na interface interativa.",
+        "Respostas bem definidas: Inclui códigos de status HTTP claros, como 200 (sucesso), 404 (não encontrado) e 201 (criado).",
+        "Boa estrutura de dados: Cada aluno é representado por um modelo contendo informações como notas, professor e sala, proporcionando um controle mais detalhado."
+      ],
+      "image": "/imagens/projeto1.png",
+      "url": "https://generationapi.onrender.com/swagger/",
+      "github": "https://github.com/vgvianna/GenerationAPI/tree/main",
+      "technologies": ["Python", "Flask", "Swagger"]
+    },
+    {
+      "name": "Meu Portfólio",
+      "shortDescription": "Site pessoal para exibir projetos e habilidades.",
+      "longDescription": "Este é o meu portfólio online, desenvolvido com React no front-end e TailwindCSS para estilização. Ele foi criado para demonstrar meus projetos, habilidades e tecnologias que utilizo. O site é responsivo e focado em fornecer uma navegação agradável para os visitantes.",
+      "features": [
+        "Exibição de projetos com detalhes sobre cada um.",
+        "Design responsivo para funcionar bem em dispositivos móveis e desktops.",
+        "Links para repositórios do GitHub e demonstrações ao vivo dos projetos."
+      ],
+      "technicalDifferentials": [
+        "Componentização: Uso extensivo de componentes React para organização e reuso de código.",
+        "TailwindCSS: Estilização rápida e eficiente com classes utilitárias.",
+        "Deploy no Heroku: Site acessível online para fácil compartilhamento com recrutadores."
+      ],
+      "image": "/imagens/projeto2.png",
+      "url": "https://victorgabriel-portifolio-app.herokuapp.com/ ",
+      "github": "https://github.com/vgvianna/MyPortfolio",
+      "technologies": ["React", "TailwindCSS", "Heroku"]
+    }
+  ]
+}
