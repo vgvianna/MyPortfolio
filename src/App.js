@@ -150,7 +150,7 @@ function App() {
               href="https://www.instagram.com/vg.vianna/"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-gradient-to-b from-[#7C22B8] via-[#C42F63] to-[#DE963E] text-transparent bg-clip-text hover:from-[#621B98] hover:via-[#A02852] hover:to-[#C57E1A] text-4xl transition"
+              className="text-transparent bg-clip-text bg-gradient-to-b from-[#7C22B8] via-[#C42F63] to-[#DE963E] hover:from-[#621B98] hover:via-[#A02852] hover:to-[#C57E1A] text-4xl transition"
             >
               <FaInstagram />
             </a>
