@@ -82,12 +82,12 @@ function App() {
           <p className="text-gray-600 leading-relaxed text-lg text-center max-w-3xl mx-auto">
             Sou o Victor Gabriel, desenvolvedor full stack dedicado a
             transformar ideias em soluções digitais inovadoras. Minha expertise
-            abrange tecnologias modernas como Java, JavaScript, Spring Boot e
-            React, com foco em criar aplicações robustas e experiências que
-            encantam os usuários. Tenho um interesse especial por inteligência
-            artificial, automação e música, buscando sempre unir eficiência e
-            criatividade. Estou comprometido em evoluir continuamente, tanto
-            como profissional quanto como pessoa.
+            abrange tecnologias modernas como Python, Java, JavaScript, Spring
+            Boot e React, com foco em criar aplicações robustas e experiências
+            que encantam os usuários. Tenho um interesse especial por
+            inteligência artificial, automação e música, buscando sempre unir
+            eficiência e criatividade. Estou comprometido em evoluir
+            continuamente, tanto como profissional quanto como pessoa.
           </p>
         </section>
 
