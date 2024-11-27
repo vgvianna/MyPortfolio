@@ -31,7 +31,7 @@ function App() {
             <FaBars />
           </button>
           <h1 className="text-2xl font-bold tracking-wide">
-            Victor Gabriel | Desenvolvedor Full Stack
+            Victor Gabriel | Desenvolvedor Backend
           </h1>
         </div>
       </header>
