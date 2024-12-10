@@ -80,14 +80,16 @@ function App() {
             Sobre Mim
           </h2>
           <p className="text-gray-600 leading-relaxed text-lg text-center max-w-3xl mx-auto">
-            Sou desenvolvedor backend com foco em Java e Spring, criando
-            soluções robustas e eficientes para sistemas e APIs. Com
-            conhecimentos em SQL e boas práticas de desenvolvimento, busco
-            oportunidades para aplicar minhas habilidades em projetos
-            desafiadores e colaborar com equipes que valorizem qualidade e
-            inovação. Estou sempre me aprimorando, estudando novas tecnologias e
-            construindo projetos que reflitam meu compromisso com a excelência
-            técnica.
+            Sou estudante de Análise e Desenvolvimento de Sistemas no IBMR e
+            desenvolvedor backend com foco em Java e Spring. Tenho conhecimentos
+            em desenvolvimento de APIs RESTful com Spring Boot, persistência de
+            dados com SQL e integração de sistemas. Aplico boas práticas de
+            desenvolvimento, como testes unitários e integração contínua, e sigo
+            metodologias ágeis como Scrum. Meu objetivo é contribuir para o
+            desenvolvimento de sistemas robustos e eficientes. Estou em busca de
+            uma oportunidade onde possa aplicar minhas habilidades em Java e
+            Spring, aprender com profissionais experientes e crescer
+            profissionalmente.
           </p>
         </section>
 
