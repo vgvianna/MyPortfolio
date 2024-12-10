@@ -18,7 +18,7 @@
         "Respostas bem definidas: Inclui códigos de status HTTP claros, como 200 (sucesso), 404 (não encontrado) e 201 (criado).",
         "Boa estrutura de dados: Cada aluno é representado por um modelo contendo informações como notas, professor e sala, proporcionando um controle mais detalhado."
       ],
-      "image": "/projeto1.png",
+      "image": "https://raw.githubusercontent.com/vgvianna/MyPortfolio/refs/heads/main/projeto1.png",
       "url": "https://generationapi.onrender.com/swagger/",
       "github": "https://github.com/vgvianna/GenerationAPI/tree/main",
       "technologies": ["Python", "Flask", "Swagger"]
@@ -37,7 +37,7 @@
         "TailwindCSS: Estilização rápida e eficiente com classes utilitárias.",
         "Deploy no Heroku: Site acessível online para fácil compartilhamento com recrutadores."
       ],
-      "image": "/projeto2.png",
+      "image": "https://raw.githubusercontent.com/vgvianna/MyPortfolio/refs/heads/main/projeto2.png",
       "url": "https://victorgabriel-portifolio-6de62350e450.herokuapp.com/",
       "github": "https://github.com/vgvianna/MyPortfolio",
       "technologies": ["React", "TailwindCSS", "Heroku"]
