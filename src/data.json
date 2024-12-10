@@ -37,7 +37,7 @@
         "TailwindCSS: Estilização rápida e eficiente com classes utilitárias.",
         "Deploy no Heroku: Site acessível online para fácil compartilhamento com recrutadores."
       ],
-      "image": "/imagens/projeto2.png",
+      "image": "public/imagens/projeto2.png",
       "url": "https://victorgabriel-portifolio-6de62350e450.herokuapp.com/",
       "github": "https://github.com/vgvianna/MyPortfolio",
       "technologies": ["React", "TailwindCSS", "Heroku"]
