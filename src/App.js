@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FaLinkedin, FaGithub, FaInstagram, FaBars } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaBars } from "react-icons/fa";
 import data from "./data.json";
 import Modal from "./Modal";
 import TechnologyBadge from "./TechnologyBadge";
