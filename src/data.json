@@ -38,7 +38,7 @@
         "Deploy no GitHub Pages: Ferramenta acessível online para fácil compartilhamento com recrutadores."
       ],
       "image": "https://raw.githubusercontent.com/vgvianna/MyPortfolio/refs/heads/main/projeto2.png",
-      "url": "https://vgvianna.github.io/MyPortfolio/",
+      "url": "https://vgvianna.github.io/portfolio/",
       "github": "https://github.com/vgvianna/MyPortfolio",
       "technologies": ["React", "TailwindCSS", "GitHub Pages"]
     }
