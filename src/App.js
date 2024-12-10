@@ -146,14 +146,6 @@ function App() {
             >
               <FaGithub />
             </a>
-            <a
-              href="https://www.instagram.com/vg.vianna/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#8A3FFC] hover:text-[#D5006D] text-4xl transition"
-            >
-              <FaInstagram />
-            </a>
           </div>
         </section>
       </main>
