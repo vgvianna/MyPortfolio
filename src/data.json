@@ -35,12 +35,12 @@
       "technicalDifferentials": [
         "Componentização: Uso extensivo de componentes React para organização e reuso de código.",
         "TailwindCSS: Estilização rápida e eficiente com classes utilitárias.",
-        "Deploy no Heroku: Site acessível online para fácil compartilhamento com recrutadores."
+        "Deploy no GitHub Pages: Ferramenta acessível online para fácil compartilhamento com recrutadores."
       ],
       "image": "https://raw.githubusercontent.com/vgvianna/MyPortfolio/refs/heads/main/projeto2.png",
-      "url": "https://victorgabriel-portifolio-6de62350e450.herokuapp.com/",
+      "url": "https://vgvianna.github.io/MyPortfolio/",
       "github": "https://github.com/vgvianna/MyPortfolio",
-      "technologies": ["React", "TailwindCSS", "Heroku"]
+      "technologies": ["React", "TailwindCSS", "GitHub Pages"]
     }
   ]
 }
